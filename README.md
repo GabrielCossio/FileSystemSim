@@ -8,6 +8,7 @@ Simple Python program that simulates a shell/file system. It supports ls, mkdir,
 * ```mkdir```: Create a new directory
 * ```cd```: Change directory (supports relative, absolute paths, and commands like <```cd ..```> to return the the parent directory, and <```cd /```> to go to home directory)
 * ```touch```: Create a new file
+* ```exit```: Terminates the file system
 
 ### Prerequisites
 
